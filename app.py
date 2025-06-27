@@ -16,9 +16,7 @@ st.subheader('Summarize URL')
 
 ## Get the Groq API Key and url(YT or website)to be summarized
 with st.sidebar:
-    if st.button("Return to Main Menu"):
-            st.markdown("[Go Back](http//:192.168.142.1:3000/T2)", unsafe_allow_html=True)
-
+    
     st.markdown("**Guide**")
     st.write("""
              1.Under the title and subheader, you'll see a text input field where you can enter a URL (YouTube video or website).\n
