@@ -34,7 +34,7 @@ It intelligently loads the textual content from URLs and delivers a clean summar
 
 You can use `.env` for storing the API key:
 
-```bash ```
+
 GROQ_API_KEY=your_groq_api_key_here  
 ---
 # 🧠 How It Works
